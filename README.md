@@ -2,7 +2,7 @@
 
 Welcome to my Github page!
 
-I'm Gayathri Devi Srinivasan, Mobile Developer/Engineer from  Salem, Tamil Nadu, India currently living in  Bangalore, Karnataka, India.
+I'm Gayathri Devi Srinivasan, Mobile Developer/Engineer from  Salem, Tamil Nadu currently living in  Bangalore, Karnataka, India.
 
 I am an active volunteer for several organizations, including Google Developer Groups, WTM, Flutter BLR, Flutteristas and GDSC lead alumni.
 
