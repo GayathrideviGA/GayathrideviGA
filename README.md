@@ -16,6 +16,8 @@ I am an active volunteer for several organizations, including Google Developer G
 
 ## 📝 Latest Articles
 
+
+- [Zip Data Type in Swift Programming](https://gayathridevisrinivasan.hashnode.dev/zip-data-type-in-swift-programming)
 - [The Importance of Data Mutability in Flutter Development](https://gayathridevisrinivasan.hashnode.dev/the-importance-of-data-mutability-in-flutter-development)
 - [Handling Blob URL's in Flutter WebView](https://gayathridevisrinivasan.hashnode.dev/handling-blob-urls-in-flutter-webview-1)
 - [Six Essential AWS Services to Learn as a Flutter Developer](https://gayathridevisrinivasan.hashnode.dev/six-essential-aws-services-to-learn-as-a-flutter-developer)
